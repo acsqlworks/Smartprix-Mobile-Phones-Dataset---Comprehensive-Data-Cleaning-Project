@@ -75,18 +75,11 @@ This project demonstrates comprehensive data cleaning techniques on a real-world
 smartprix-mobile-cleaning/
 │
 ├── sql/
-│   ├── comprehensive_cleaning.sql      # Main cleaning query
-│   ├── create_views.sql                # Analysis views
-│   └── data_quality_checks.sql         # Validation queries
+│   ├── Comprehensive_Cleaning.sql      # Main cleaning query
 │
 ├── data/
-│   ├── sample_raw_data.csv             # Sample of raw data
-│   └── sample_cleaned_data.csv         # Sample of cleaned data
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb       # Initial EDA
-│   ├── 02_cleaning_validation.ipynb    # Validation & QA
-│   └── 03_analysis_examples.ipynb      # Usage examples
+│   ├── Raw Smartprix Dataset.csv             # Raw Table Data
+│   └── Cleaned Smartprix Dataset.csv         # Cleaned Table Data
 │
 ├── docs/
 │   ├── data_dictionary.md              # Column descriptions
@@ -95,15 +88,12 @@ smartprix-mobile-cleaning/
 │
 ├── README.md                            # This file
 ├── LICENSE                              # MIT License
-└── requirements.txt                     # Python dependencies
 ```
 
 ## 🛠️ Technologies Used
 
 - **SQL Server**: Primary data cleaning engine
 - **T-SQL**: Advanced query features (CTEs, CASE statements, TRY_CONVERT)
-- **Python** (optional): For validation and analysis
-- **Pandas**: For working with the cleaned CSV
 
 ## 📖 How to Use
 
