@@ -24,7 +24,7 @@ This project demonstrates comprehensive data cleaning techniques on a real-world
 
 **Source**: Smartprix Mobile Phones Dataset (Raw & Uncleaned)  
 **Original Data**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/mayankkumarpoddar/smartprix-mobiles-dataset)  
-**Cleaned Data**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)]
+**Cleaned Data**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)
 
 ### Statistics
 - **Total Records**: ~10,000+ mobile phones
@@ -254,8 +254,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Allen Close** - [@yourusername](https://twitter.com/yourusername)  
-**Project Link**: [https://github.com/acsqlworks/smartprix-mobile-cleaning]([https://github.com/yourusername/repo-name](https://github.com/acsqlworks/Smartprix-Mobile-Phones-Dataset---Comprehensive-Data-Cleaning-Project/))  
+**Allen Close** - [LinkedIN](https://www.linkedin.com/in/allen-close-6a77ab391/)  
+**Project Link**: [GitHUB]([https://github.com/yourusername/repo-name](https://github.com/acsqlworks/Smartprix-Mobile-Phones-Dataset---Comprehensive-Data-Cleaning-Project/))  
 **Kaggle Dataset**: [[Your Kaggle Dataset Link](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)]
 
 ---
