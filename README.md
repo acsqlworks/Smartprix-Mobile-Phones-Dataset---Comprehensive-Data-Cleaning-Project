@@ -246,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Allen Close** - [LinkedIN](https://www.linkedin.com/in/allen-close-6a77ab391/)  
 **Project Link**: [GitHUB]([https://github.com/yourusername/repo-name](https://github.com/acsqlworks/Smartprix-Mobile-Phones-Dataset---Comprehensive-Data-Cleaning-Project/))  
-**Kaggle Dataset**: [[Your Kaggle Dataset Link](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)]
+**Kaggle Dataset**: [[Kaggle Dataset Link](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)]
 
 ---
 
